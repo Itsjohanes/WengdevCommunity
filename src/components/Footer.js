@@ -28,7 +28,9 @@ const Footer = () => {
               <span>Wengdev Community</span>
             </div>
             <p className="text-muted ">
-              Sebuah Divisi Komunitas Coding Wengdev Tech yang Pelatihan IT
+              Sebuah Divisi Komunitas Coding dari{" "}
+              <a href="https://wengdev.tech">Wengdev Tech</a> yang Berfokus Pada
+              Pelatihan IT
             </p>
           </div>
         </div>
